@@ -1,6 +1,6 @@
 {
   "name": "na-hosted-zone",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NA Hosted Zone",
   "main": "index.js",
   "scripts": {
